@@ -1,5 +1,8 @@
 # **Regressão L1 e L2: Ridge e Lasso**
 
+![image](https://github.com/user-attachments/assets/6688ae32-adb3-4eb0-9c23-3858b49348cd)
+
+
 Este repositório explora as técnicas de regularização em modelos de regressão linear, focando nas abordagens Ridge (L2) e Lasso (L1). Essas técnicas são amplamente utilizadas para melhorar a performance de modelos, principalmente em cenários com alto risco de overfitting ou com grande quantidade de variáveis.
 
 ![image](https://github.com/user-attachments/assets/dc304968-e4b1-4c61-a690-734d926ad51c)
