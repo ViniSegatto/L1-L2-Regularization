@@ -42,4 +42,6 @@ Regularização é uma técnica que visa evitar o overfitting ao adicionar uma p
  * A função objetivo minimiza: Erro LS + α * (soma dos coeficientes absolutos).
  * Indicado para seleção de características, pois alguns coeficientes podem se tornar zero.
 
+A seguir consegui apenas encontrar imagens em ingles para mostrar essas equações na pratica. 
+![image](https://github.com/user-attachments/assets/be3bf611-0a97-4f18-b067-c0676637c5a3)
 
